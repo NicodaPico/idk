@@ -8,10 +8,10 @@
 /* Navbar container */
 .navbar {
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   align-items: center;
   padding: 15px 40px;
-  background-color: #222;
+  background-color: gradient(180deg, #505050, #101010);
 }
 
 /* Logo */
