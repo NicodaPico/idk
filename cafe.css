@@ -84,17 +84,17 @@ address {
 }
 
 a {
-  color: black;
+  color: white;
 }
 
 a:visited {
-  color: black;
+  color: white;
 }
 
 a:hover {
-  color: brown;
+  color: white;
 }
 
 a:active {
-  color: brown;
+  color: white;
 }
