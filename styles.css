@@ -16,7 +16,7 @@
   color: white;
   font-size: 24px;
   font-weight: bold;
-  justify-content: left;
+  align-self: left;
 }
 
 .nav-links {
