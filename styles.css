@@ -42,5 +42,6 @@
 }
 
 body {
+  background: #223445;
 background: linear-gradient(90deg,rgba(34, 52, 69, 1) 0%, rgba(28, 148, 199, 1) 50%);
 }
